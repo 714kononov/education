@@ -1,6 +1,8 @@
 # P01D06 
 The russian version of the task can be found in the repository.
 
+You can find some useful video materials in the "Projects (Media)" section on the Platform.
+
 ![dayp01](misc/eng/images/dayp01.png)
 
 ## Contents
@@ -77,20 +79,19 @@ so far and the standard library.***
 ***When one of the players scores 21 points, congratulations to the winner are displayed on the screen and the game ends.==***
 
 ## Bonus Part:
-***== Quest received. You need to implement interactive version of the PONG. Additional 
-libraries can be used to simplify the processing of the players' actions and displaying symbolic graphics..==***
+
+***== Quest received. You need to implement interactive version of the PONG (real-time game mode). Additional 
+libraries can be used to simplify the processing of the players' actions and displaying symbolic graphics. The interactive mode code must be in the src/pong_interactive.c file. To implement the bonus part, you must implement the base part first. ==***
 
 ## Important notes:
 
 * The game must be written in C, have a structured style, and run from the terminal; 
   
-* Your source code will be tested by the static analyzer `cppcheck`, as well as the style linter `cpplint`. 
+* Your source code will be tested by the static analyzer `cppcheck`, as well as the style linter `clang-format`. 
   
 * Instructions on how to run these tests on your computer are in the `materials` folder. 
   
 * We also recommend taking a look at the `code-samples` folder.
-
-* Check your program for memory leaks!
 
 * It is forbidden to use dynamic memory
 
@@ -103,9 +104,9 @@ the principles of structured programming of E. Dijkstra.
 
 ## List 1.
 
->Pong, groundbreaking electronic game released in 1972 by the American game manufacturer Atari, Inc. One of the earliest video games, Pong became wildly popular and helped launch the video game industry. The original Pong consisted of two paddles that players used to volley a small ball back and forth across a screen.
+>Pong, groundbreaking electronic game released in 1972 by the game manufacturer Atari, Inc. One of the earliest video games, Pong became wildly popular and helped launch the video game industry. The original Pong consisted of two paddles that players used to volley a small ball back and forth across a screen.
 >
->The German-born American television engineer Ralph Baer laid the groundwork for Pong in 1958 when he proposed making simple video games that people could play on their home television sets. The Magnavox Odyssey, known as the first console video game system, was released in 1972 and offered a game of table tennis, or Ping-Pong. Atari founder Nolan Bushnell created Pong, his version of this concept, as an arcade game. A small company at the time, Atari began manufacturing the games in an old roller skating rink, and by 1972 the company had sold more than 8,000 Pong arcade machines. In 1975 Atari turned Pong into a console system game. After striking an exclusive deal with Sears, Roebuck and Company, Pong was soon in the homes of many American families. Pong’s popularity declined in the 1980s as video games temporarily went out of style, but it had already secured its place in history as the most popular arcade game up to that time.
+>Television engineer Ralph Baer laid the groundwork for Pong in 1958 when he proposed making simple video games that people could play on their home television sets. The Magnavox Odyssey, known as the first console video game system, was released in 1972 and offered a game of table tennis, or Ping-Pong. Atari founder Nolan Bushnell created Pong, his version of this concept, as an arcade game. A small company at the time, Atari began manufacturing the games in an old roller skating rink, and by 1972 the company had sold more than 8,000 Pong arcade machines. In 1975 Atari turned Pong into a console system game. After striking an exclusive deal with Sears, Roebuck and Company, Pong was soon in the homes of many American families. Pong’s popularity declined in the 1980s as video games temporarily went out of style, but it had already secured its place in history as the most popular arcade game up to that time.
 >
 >In 1974 the makers of the Magnavox Odyssey sued Atari for stealing the concept for Pong. Magnavox won the lawsuit in 1977, upholding the company’s patent, but by then Atari had already licensed the patent for $700,000.
 >
