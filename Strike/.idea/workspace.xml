@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5e0505-c87e-42a2-885b-90d5322bed54" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bot/menus/coach.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2VREEDXTB3VDs4XlPQgwR55djPi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Shared/Strike&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="льж" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Strike" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5e0505-c87e-42a2-885b-90d5322bed54" name="Changes" comment="" />
+      <created>1694790378874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694790378874</updated>
+      <workItem from="1694790381262" duration="9190000" />
+      <workItem from="1694840242047" duration="1430000" />
+      <workItem from="1694930990002" duration="24809000" />
+      <workItem from="1695144949106" duration="5476000" />
+      <workItem from="1695321416025" duration="599000" />
+      <workItem from="1695395358245" duration="29000" />
+      <workItem from="1695401654265" duration="9808000" />
+      <workItem from="1695662369094" duration="3000" />
+      <workItem from="1695662482903" duration="94000" />
+      <workItem from="1695750247044" duration="1616000" />
+      <workItem from="1695836826232" duration="4867000" />
+      <workItem from="1695844378046" duration="3414000" />
+      <workItem from="1696007354276" duration="1682000" />
+      <workItem from="1696093318324" duration="31373000" />
+      <workItem from="1696522503118" duration="17691000" />
+      <workItem from="1696805020019" duration="261000" />
+      <workItem from="1696805855547" duration="989000" />
+      <workItem from="1696872283001" duration="7045000" />
+      <workItem from="1697226531314" duration="9569000" />
+      <workItem from="1697489384052" duration="77762000" />
+      <workItem from="1697995721269" duration="10967000" />
+      <workItem from="1698164668112" duration="7004000" />
+      <workItem from="1698367057397" duration="18577000" />
+      <workItem from="1698513492116" duration="4025000" />
+      <workItem from="1698530560451" duration="7626000" />
+      <workItem from="1698692236673" duration="1259000" />
+      <workItem from="1698711173578" duration="8144000" />
+      <workItem from="1698882684028" duration="755000" />
+      <workItem from="1698960001508" duration="5412000" />
+      <workItem from="1699066120274" duration="56076000" />
+      <workItem from="1699550641947" duration="2856000" />
+      <workItem from="1699569088424" duration="1358000" />
+      <workItem from="1699571378830" duration="1527000" />
+      <workItem from="1699573016240" duration="36891000" />
+      <workItem from="1699929628400" duration="300000" />
+      <workItem from="1699930395588" duration="21280000" />
+      <workItem from="1700582668372" duration="28120000" />
+      <workItem from="1702314649607" duration="3569000" />
+      <workItem from="1702400485775" duration="1239000" />
+      <workItem from="1702490119643" duration="375000" />
+      <workItem from="1702490732240" duration="4412000" />
+      <workItem from="1702508301294" duration="1793000" />
+      <workItem from="1702511354119" duration="13242000" />
+      <workItem from="1704500401434" duration="30000" />
+      <workItem from="1704523698920" duration="1758000" />
+      <workItem from="1704666751818" duration="14000" />
+      <workItem from="1705723213005" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$start_menus.coverage" NAME="start_menus Coverage Results" MODIFIED="1698161817898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bot/menus" />
+    <SUITE FILE_PATH="coverage/main_py$fuctions.coverage" NAME="fuctions Coverage Results" MODIFIED="1702585715475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bot/chech_pay_new_books" />
+    <SUITE FILE_PATH="coverage/Strike$main.coverage" NAME="main Coverage Results" MODIFIED="1694841010563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$migrations.coverage" NAME="migrations Coverage Results" MODIFIED="1698162150093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bot/database" />
+    <SUITE FILE_PATH="coverage/main_py$dataBase.coverage" NAME="dataBase Coverage Results" MODIFIED="1698379602917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bot/database" />
+    <SUITE FILE_PATH="coverage/main_py$main.coverage" NAME="main Coverage Results" MODIFIED="1704525159893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
